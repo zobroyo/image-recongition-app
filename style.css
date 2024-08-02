@@ -1,0 +1,33 @@
+body {
+
+background:rgb(55, 132, 231);
+
+color:green ;
+font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+
+.heading
+{
+
+width: 80%;
+font-size: 43px;
+border-radius: 10px;
+background: pink;
+
+}
+
+#camera {
+    border:2px dashed black;
+    border-radius: 20px;
+    width: 350px;
+    height: 300px;
+
+}
+
+.name_of_objects,#result_object_name,#result_object_accuracy
+{
+color: red;
+}
